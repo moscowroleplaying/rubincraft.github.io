@@ -1,0 +1,7 @@
+Options All -Indexes
+Order Deny,Allow
+Allow from all
+<FilesMatch ".(htaccess|tpl|png|jpg|jpeg|css|gif|js)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
