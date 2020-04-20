@@ -1,0 +1,21 @@
+html, body {
+	padding: 0px;
+	margin: 0px;
+	background-image: url(http://oneland.su/uploads/offline_bg.jpg);
+	height: 100%;
+	width: 100%;
+	background-position: center top;
+}
+
+.offpage {
+    font-size: 38px;
+    font-family: Verdana;
+    text-align: center;
+    margin-top: 309px;
+    color: white;
+    /* background: rgba(0, 0, 0, 0.15); */
+    position: absolute;
+    width: 100%;
+    /* margin-left: 465px; */
+    text-shadow: 0px 0px 2px black;
+}
